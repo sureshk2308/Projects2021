@@ -1,0 +1,12 @@
+D:\Projects.NetCore\Store.Web\Store.Business\obj\Debug\netstandard2.1\Store.Business.csprojAssemblyReference.cache
+D:\Projects.NetCore\Store.Web\Store.Business\obj\Debug\netstandard2.1\Store.Business.AssemblyInfoInputs.cache
+D:\Projects.NetCore\Store.Web\Store.Business\obj\Debug\netstandard2.1\Store.Business.AssemblyInfo.cs
+D:\Projects.NetCore\Store.Web\Store.Business\obj\Debug\netstandard2.1\Store.Business.csproj.CoreCompileInputs.cache
+D:\Projects.NetCore\Store.Web\Store.Business\bin\Debug\netstandard2.1\Store.Business.deps.json
+D:\Projects.NetCore\Store.Web\Store.Business\bin\Debug\netstandard2.1\Store.Business.dll
+D:\Projects.NetCore\Store.Web\Store.Business\bin\Debug\netstandard2.1\Store.Business.pdb
+D:\Projects.NetCore\Store.Web\Store.Business\bin\Debug\netstandard2.1\Store.Data.dll
+D:\Projects.NetCore\Store.Web\Store.Business\bin\Debug\netstandard2.1\Store.Data.pdb
+D:\Projects.NetCore\Store.Web\Store.Business\obj\Debug\netstandard2.1\Store.Business.csproj.CopyComplete
+D:\Projects.NetCore\Store.Web\Store.Business\obj\Debug\netstandard2.1\Store.Business.dll
+D:\Projects.NetCore\Store.Web\Store.Business\obj\Debug\netstandard2.1\Store.Business.pdb

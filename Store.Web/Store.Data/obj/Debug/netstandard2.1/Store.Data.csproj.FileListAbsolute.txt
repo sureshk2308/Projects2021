@@ -1,0 +1,9 @@
+D:\Projects.NetCore\Store.Web\Store.Data\obj\Debug\netstandard2.1\Store.Data.csprojAssemblyReference.cache
+D:\Projects.NetCore\Store.Web\Store.Data\obj\Debug\netstandard2.1\Store.Data.AssemblyInfoInputs.cache
+D:\Projects.NetCore\Store.Web\Store.Data\obj\Debug\netstandard2.1\Store.Data.AssemblyInfo.cs
+D:\Projects.NetCore\Store.Web\Store.Data\obj\Debug\netstandard2.1\Store.Data.csproj.CoreCompileInputs.cache
+D:\Projects.NetCore\Store.Web\Store.Data\bin\Debug\netstandard2.1\Store.Data.deps.json
+D:\Projects.NetCore\Store.Web\Store.Data\bin\Debug\netstandard2.1\Store.Data.dll
+D:\Projects.NetCore\Store.Web\Store.Data\bin\Debug\netstandard2.1\Store.Data.pdb
+D:\Projects.NetCore\Store.Web\Store.Data\obj\Debug\netstandard2.1\Store.Data.dll
+D:\Projects.NetCore\Store.Web\Store.Data\obj\Debug\netstandard2.1\Store.Data.pdb
